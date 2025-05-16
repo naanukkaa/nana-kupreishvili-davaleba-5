@@ -52,6 +52,7 @@ li {
  	padding: 93px 0 0 112px;
  	display: inline-block;
  	vertical-align: top;
+ 	font-family: "BPG Square", sans-serif;
 }
 
 .map {
@@ -68,7 +69,7 @@ li {
 	font-size: 20px;
 	font-weight: 400;
 	margin: 20px 0;
-
+	font-family: "BPG Nostalgia Bold", sans-serif;
 }
 
 span {
