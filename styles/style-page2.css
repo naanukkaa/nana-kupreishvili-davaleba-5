@@ -1,0 +1,174 @@
+/*მთავარი კოდი*/
+
+body {
+	padding: 54px 52px;
+}
+
+header {
+	margin-bottom: 44px;
+}
+
+a {
+	color: #8D81FF;
+	font-weight: 700;
+	font-size: 26px;
+  font-family: "BPG Square", sans-serif;
+}
+
+.active {
+	color: #4E6FAE;
+}
+
+.logo {
+	vertical-align: middle;
+}
+
+nav {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+li {
+	display: inline-block;
+	margin-left: 81px;
+}
+
+
+
+/*მეორე გვერდის მთავარი კოდი*/
+
+.html{
+	margin: 97px 194px ;
+}
+
+
+/*სათაური*/
+
+.news {
+	color: #4E6FAE;
+	font-weight: 700;
+	font-size: 26px;
+	display: inline-block;
+	vertical-align: middle;
+  margin-left: 194px;
+  font-family: "BPG Square", sans-serif;
+}
+
+.line2 {
+	width: 2px;
+	height: 24px;
+	background-color: #5012D5;
+	margin-left: 18px;
+	margin-right: 18px;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.news-2 {
+	color: #4E6FAE;
+	font-weight: 400;
+	font-size: 26px;
+	display: inline-block;
+	vertical-align: middle;
+  font-family: "BPG Square", sans-serif;
+}
+
+/*კუბიკი 1*/
+
+.box-one {
+  width: 500px;
+  height: 192px;
+  background-color: #E7E7E7;
+  margin: 26px 52px 91px 194px;
+  border: 1px solid #E7E7E7;
+  padding: 10px;
+  display: inline-block;
+}
+  
+.box1-pic {
+  width: 77px;
+  height: 77px;
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 10px;
+  margin-top: 10px;
+  margin-left: 26px;
+}
+
+/*კუბიკი 2*/
+
+.box-two {
+  width: 500px;
+  height: 192px;
+  background-color: #E7E7E7;
+  margin: 26px 0px 0px 0px;
+  border: 1px solid #E7E7E7;
+  padding: 10px;
+  display: inline-block;
+}
+
+.box2-pic {
+  width: 77px;
+  height: 77px;
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 10px;
+  margin-top: 10px;
+  margin-left: 26px;
+}
+
+/*კუბიკების საერთო კოდი*/
+
+.box-title {
+	margin: 21px 0px 15px 23px;
+  font-size: 20px;
+  font-weight: 400;
+  color: #3F4145;
+  text-transform: uppercase;
+  font-family: "Roboto", sans-serif;
+}
+
+.text-box {
+	margin-top: 10px;
+	margin-right: 15px;
+  display: inline-block;
+  width: 335px;
+  height: 95px;
+  vertical-align: top;
+}
+
+.box-p {
+  font-size: 16px;
+  color: #7E8898;
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+}
+
+
+/*ბოლოში ლოგოები*/
+
+.image-box {
+  display: inline-block;
+  vertical-align: middle;
+  margin-top: 30px;
+}
+
+.side-image1 {
+  width: 50px;
+  height: 50px;
+  margin-left: 194px;
+}
+
+.side-image2{
+	width: 71px;
+	height: 49px;
+}
+
+.line {
+  display: inline-block;
+  vertical-align: middle;
+  width: 2px;
+  height: 48px;
+  background-color: #5012D5;
+  margin:32px 41px 0 41px;
+}

@@ -1,0 +1,131 @@
+/*მთავარი კოდი*/
+
+body {
+	padding: 54px 52px;
+}
+
+header {
+	margin-bottom: 44px;
+}
+
+a {
+	color: #8D81FF;
+	font-weight: 700;
+	font-size: 26px;
+	font-family: "BPG Square", sans-serif;
+}
+
+.active {
+	color: #4E6FAE;
+}
+
+.logo {
+	vertical-align: middle;
+}
+
+nav {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+li {
+	display: inline-block;
+	margin-left: 81px;
+}
+
+
+/*პირველი გვერდის მთავარი კოდი*/
+
+.date1 {
+	background-color: #5012D5;
+	width: 50px;
+	height: 50px;
+	padding-top: 10px;
+	margin-bottom: 18px;
+}
+
+.date2 {
+	background-color: #5012D5;
+	width: 50px;
+	height: 50px;
+	padding-top: 10px;
+	margin-bottom: 18px;
+	margin-top: 155px;
+}
+
+.day {
+	color: #84FF81;
+	font-weight: 400;
+	font-size: 24px;
+	text-align: center;
+}
+
+h2 {
+	color: #8D81FF;
+	font-weight: 400;
+	font-size: 32px;
+	margin-bottom: 12px;
+	font-family: "BPG Nino Mkhedruli", sans-serif;
+}
+
+h3 {
+	font-weight: 700;
+	font-size: 20px;
+	color: #4E6FAE;
+	margin-bottom: 17px;
+	font-family: "BPG Nostalgia Bold", sans-serif;
+}
+
+.img {
+	margin-right: 66px;
+	vertical-align: top;
+}
+
+.text-box {
+	display: inline-block;
+	width: 778px;
+	vertical-align: top;
+}
+
+.p-1 {
+	margin-bottom: 30px;
+	color: #4E6FAE;
+	font-weight: 400;
+	font-size: 16px;
+	font-family: "BPG Nostalgia Bold", sans-serif;
+}
+
+.p-2 {
+	margin-bottom: 15px;
+	color: #4E6FAE;
+	font-weight: 400;
+	font-size: 16px;
+	font-family: "BPG Nostalgia Bold", sans-serif;
+}
+
+/*ბოლოს ლოგოები*/
+
+.image-box {
+  display: inline-block;
+  vertical-align: middle;
+  margin-top: 143px;
+}
+
+.side-image1 {
+  width: 50px;
+  height: 50px;
+}
+
+.side-image2{
+	width: 71px;
+	height: 49px;
+}
+
+.line {
+  display: inline-block;
+  vertical-align: middle;
+  width: 2px;
+  height: 48px;
+  background-color: #5012D5;
+  margin:144px 41px 0 41px;
+}

@@ -1,0 +1,116 @@
+	/*მთავარი კოდი*/
+
+body {
+	padding: 54px 0px;
+}
+
+header {
+	margin-bottom: 44px;
+}
+
+a {
+	color: #8D81FF;
+	font-weight: 700;
+	font-size: 26px;
+	font-family: "BPG Square", sans-serif;
+}
+
+.active {
+	color: #4E6FAE;
+}
+
+.logo {
+	vertical-align: middle;
+	margin-left: 52px;
+}
+
+nav {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+li {
+	display: inline-block;
+	margin-left: 81px;
+}
+
+/*მესამე გვერდის მთავარი კოდი*/
+
+.contact {
+  width: 100%;
+  background-color: #E7E7E7;
+  border: 1px solid #E7E7E7;
+  height: 735px;
+  
+}
+
+.contact-title {
+	color: #4E6FAE;
+	font-weight: 700;
+	font-size: 36px;
+ 	width: 40%;
+ 	padding: 93px 0 0 112px;
+ 	display: inline-block;
+ 	vertical-align: top;
+}
+
+.map {
+  width: 50%;
+  height: 550px;
+  margin-top: 93px;
+  margin-left: 40px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.contact-info {
+	color: #7E8898;
+	font-size: 20px;
+	font-weight: 400;
+	margin: 20px 0;
+
+}
+
+span {
+	color: #3F4145;
+	font-size: 20px;
+	font-weight: 400;
+	margin: 0px;
+}
+}
+
+/*ბოლოში ლოგოები*/
+
+.gap{
+	height: 104px;
+	width: 2px;
+	color: white;
+}
+
+.image-box {
+  display: inline-block;
+  vertical-align: middle;
+  margin-top: 30px;
+}
+
+.side-image1 {
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+  margin-left: 96px;
+}
+
+.side-image2{
+	width: 71px;
+	height: 49px;
+	display: inline-block;
+}
+
+.line {
+  display: inline-block;
+  vertical-align: middle;
+  width: 2px;
+  height: 48px;
+  background-color: #5012D5;
+  margin:32px 41px 0 41px;
+}
